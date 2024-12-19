@@ -29,8 +29,6 @@ This Blender add-on exports camera poses and corresponding viewport-rendered ima
 
 1. Download the Python script.
 2. In Blender, go to **Edit > Preferences > Add-ons**.
-3. Click **Install...**, select the downloaded `.py` file, and install it.
-4. Enable the add-on by checking the box next to *"Scene Exporter for NeRF with Viewport Rendering"*.
 
 ## Usage
 
